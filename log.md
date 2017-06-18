@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 1: Wed June 16, 2017
+### Day 2: Sat June 17, 2017
+
+**Today's Progress**: Completing the 2players(versus) mode of Tic Tac Toe
+
+**Thoughts:** Today was a challenging day. Stuck on how to implement the A.I and how even get started so i didn't waste much time and went with 2Players mode first and Completing it first. I'll come to A.I
+
+**Link to work:**  
+[Tic Tac Toe](http://syedsamiuddin.me/tictactoe/)
+
+### Day 1: Fri June 16, 2017
 
 **Today's Progress**: Working on Tic Tac Toe challenge
 
@@ -9,7 +18,7 @@
 **Link to work:**  
 [Tic Tac Toe](http://syedsamiuddin.me/tictactoe/)
 
-### Day 0: Wed June 15, 2017
+### Day 0: Thu June 15, 2017
 
 **Today's Progress**: Worked on design of Tic Tac Toe and Added feature in Pomodoro Clock
 
